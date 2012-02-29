@@ -1,0 +1,1 @@
+To run kinect code, 'frame_convert.pyc' must be in your working dirctory.  'frame_convert.pyc' is in the wrappers/python folder of libfreenect after running some sample code.
